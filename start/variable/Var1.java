@@ -6,6 +6,7 @@ public class Var1 {
         System.out.println(20); //변경 10 -> 20
         System.out.println(20); //변경 10 -> 20
         System.out.println(20); //변경 10 -> 20
+        System.out.println("이거는 깃헙 연결되는거 실험하는 겁니다.")
     }
 }
 
